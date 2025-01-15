@@ -1,0 +1,52 @@
+{
+
+	"Access": {
+		"icon": "./icons/apps/Access.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\MSACCESS.EXE"
+	},
+
+	"Word": {
+		"icon": "./icons/apps/Word.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE"
+	},
+
+	"Excel": {
+		"icon": "./icons/apps/Excel.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE"
+	},
+
+	"PowerPoint": {
+		"icon": "./icons/apps/PowerPoint.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE"
+	},
+
+
+	"OneNote": {
+		"icon": "./icons/apps/OneNote.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTE.EXE"
+	},
+
+	"Outlook": {
+		"icon": "./icons/apps/Outlook.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE"
+	},
+
+	"Project": {
+		"icon": "./icons/apps/Project.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINPROJ.EXE"
+	},
+
+	"Visio": {
+		"icon": "./icons/apps/Visio.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\VISIO.EXE"
+	}
+
+}

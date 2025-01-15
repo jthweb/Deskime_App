@@ -1,0 +1,70 @@
+{
+    "Windows": {
+		"icon": "./icons/svg/windows.svg",
+		"type": "open_app",
+		"exec": "pythonw C:\\Users\\97466\\Documents\\PythonDockmain\\start.pyw"
+	},
+
+	"Settings": {
+		"icon": "./icons/ico/Settings.ico",
+		"type": "open_app",
+		"exec": "C:\\Windows\\explorer.exe ms-settings:"
+	},
+
+
+	"Terminal": {
+		"icon": "./icons/cmd.png",
+		"type": "open_app",
+		"exec": "C:\\WINDOWS\\system32\\cmd.exe"
+	},
+
+	"File Explorer": {
+		"icon": "./icons/explorer.ico",
+		"type": "open_app",
+		"exec": "explorer"
+	},
+
+        "Adobe": {
+		"icon": "./icons/adobe.ico",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\Acrobat.exe"
+	},
+
+        "Firefox for Jonathan": {
+		"icon": "./icons/svg/firefox.svg",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+	},
+
+	"Calculator": {
+		"icon": "./icons/svg/calc.svg",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	},
+
+	"Gmail": {
+		"icon": "./icons/svg/Gmail_icon_(2020).svg",
+		"type": "open_url",
+		"url": "https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&hl=en-GB&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+	},
+
+	"Notepad": {
+		"icon": "./icons/Notepad logo.ico",
+		"type": "open_app",
+		"exec": "C:\\WINDOWS\\system32\\notepad.exe"
+	},
+
+	"PyCharm Pro": {
+		"icon": "./icons/pc2.ico",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\JetBrains\\PyCharm 2024.2.3\\bin\\pycharm64.exe"
+	},
+
+
+         "My Briefcase": {
+		"icon": "./icons/130.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:\\Users\\97466\\Desktop\\My Briefcase"
+	}
+
+}

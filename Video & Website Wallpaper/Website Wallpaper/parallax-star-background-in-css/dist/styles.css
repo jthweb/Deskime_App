@@ -1,0 +1,93 @@
+body {
+  background-color: black;
+  overflow: hidden;
+}
+
+#matrix {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-size: 54px;
+  margin-bottom: 10px;
+}
+
+
+h3{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  margin-top: 0;
+  padding-top: 0;
+}
+
+.box-container{
+/*  display: flex;*/
+   background-color: rgba(44, 30, 30, 0.698);
+   width: 350px;
+   height: auto;
+   display: block;
+   margin: auto;
+   border-radius: 8%;
+
+/*  justify-content: center;*/
+}
+
+ .social-media-box {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        /*justify-content: center;
+        align-items: center;*/
+        padding: 1rem;
+      }
+
+      .social-media-link {
+        width: 3rem;
+        height: 3rem;
+        margin: 0.5rem;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-decoration: none;
+        color: #fff;
+        border-radius: 30%;
+        border: 1px solid #fff;
+        transition: all 0.3s ease-in-out;
+      }
+
+      .social-media-link:hover {
+        background-color: #333;
+        color: #fff;
+        border-color: transparent;
+      }
+
+      .envelope{
+        display: flex;
+        color: white;
+        align-items: center;
+      }
+
+      .facebook{
+        display: flex;
+        color: white;
+        align-items: center;
+
+      }
+      .instagram{
+        display: flex;
+        color: white;
+        align-items: center;
+      }
+        .github{
+        display: flex;
+        color: white;
+        align-items: center;
+      }

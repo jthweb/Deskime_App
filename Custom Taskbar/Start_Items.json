@@ -1,0 +1,187 @@
+{
+
+	"Settings": {
+		"icon": "./icons/ico/Settings.ico",
+		"type": "open_app",
+		"exec": "C:\\Windows\\explorer.exe ms-settings:"
+	},
+
+
+	"Terminal": {
+		"icon": "./icons/ico/cmd.png",
+		"type": "open_app",
+		"exec": "C:\\WINDOWS\\system32\\cmd.exe"
+	},
+
+	"File Explorer": {
+		"icon": "./icons/ico/explorer.ico",
+		"type": "open_app",
+		"exec": "explorer"
+	},
+
+        "Adobe": {
+		"icon": "./icons/ico/adobe.ico",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\Acrobat.exe"
+	},
+
+        "Firefox": {
+		"icon": "./icons/svg/firefox.svg",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+	},
+
+	"Calculator": {
+		"icon": "./icons/svg/calc.svg",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	},
+
+	"Gmail": {
+		"icon": "./icons/svg/Gmail_icon_(2020).svg",
+		"type": "open_url",
+		"url": "https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&hl=en-GB&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+	},
+
+	"Notepad": {
+		"icon": "./icons/ico/Notepad logo.ico",
+		"type": "open_app",
+		"exec": "C:\\WINDOWS\\system32\\notepad.exe"
+	},
+
+	"PyCharm Professional": {
+		"icon": "./icons/ico/pc2.ico",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\JetBrains\\PyCharm 2024.2.3\\bin\\pycharmpro64.exe"
+	},
+
+
+         "My Folder": {
+		"icon": "./icons/ico/130.ico",
+		"type": "open_app",
+		"exec": "explorer.exe C:\\Users\\<<USER\\Desktop\\<<FOLDERNAME>>"
+	},
+
+	"Access": {
+		"icon": "./icons/apps/Access.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\MSACCESS.EXE"
+	},
+
+	"Word": {
+		"icon": "./icons/apps/Word.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINWORD.EXE"
+	},
+
+	"Excel": {
+		"icon": "./icons/apps/Excel.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\EXCEL.EXE"
+	},
+
+	"PowerPoint": {
+		"icon": "./icons/apps/PowerPoint.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\POWERPNT.EXE"
+	},
+
+
+	"OneNote": {
+		"icon": "./icons/apps/OneNote.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\ONENOTE.EXE"
+	},
+
+	"Outlook": {
+		"icon": "./icons/apps/Outlook.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\OUTLOOK.EXE"
+	},
+
+	"Project": {
+		"icon": "./icons/apps/Project.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\WINPROJ.EXE"
+	},
+
+	"Visio": {
+		"icon": "./icons/apps/Visio.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Microsoft Office\\root\\Office16\\VISIO.EXE"
+	},
+
+	"Copilot": {
+		"icon": "./icons/apps/Copilot.png",
+		"type": "open_app",
+		"exec": "COPILOT LOCATION"
+	},
+
+
+	"Office 365": {
+		"icon": "./icons/apps/OfficeApps.png",
+		"type": "open_app",
+		"exec": "OFFICE LOCATION"
+	},
+
+	"Photos": {
+		"icon": "./icons/apps/Photos.png",
+		"type": "open_app",
+		"exec": "PHOTOS LOCATION"
+	},
+
+        "iCloud": {
+		"icon": "./icons/apps/iCloud.png",
+		"type": "open_app",
+		"exec": "iCloud LOCATION"
+	},
+
+        "Films & TVs": {
+		"icon": "./icons/apps/Films & TVs.png",
+		"type": "open_app",
+		"exec": "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+	},
+
+	"App1": {
+		"icon": "./icons/icon/Checkmark_Dark_73eaebf7626fb2afb2af6cd1cd206aba.png",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	},
+
+	"App2": {
+		"icon": "./icons/icon/Checkmark_Dark_73eaebf7626fb2afb2af6cd1cd206aba.png",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	},
+
+	"App3": {
+		"icon": "./icons/icon/Checkmark_Dark_73eaebf7626fb2afb2af6cd1cd206aba.png",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	},
+
+	"App4": {
+		"icon": "./icons/icon/Checkmark_Dark_73eaebf7626fb2afb2af6cd1cd206aba.png",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	},
+
+	"App5": {
+		"icon": "./icons/icon/Checkmark_Dark_73eaebf7626fb2afb2af6cd1cd206aba.png",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	},
+
+	"App6": {
+		"icon": "./icons/icon/Checkmark_Dark_73eaebf7626fb2afb2af6cd1cd206aba.png",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	},
+
+	"App7": {
+		"icon": "./icons/icon/Checkmark_Dark_73eaebf7626fb2afb2af6cd1cd206aba.png",
+		"type": "open_app",
+		"exec": "C:\\Windows\\System32\\calc.exe"
+	}
+
+}
