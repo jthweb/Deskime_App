@@ -94,7 +94,7 @@ We are currently seeking collaborators to help create a unified application that
 2. Fill in all the details in the .json files.
 3. Run the .pyw files to activate.
    <br><br>
-   > [!CAUTION]
+   > [!WARNING]
    > 🔑 Remember to follow all the steps provided in each README.md in each branch to ensure the app functions correctly.
 
 ## 🛠️ Troubleshooting
@@ -113,7 +113,9 @@ Deskime is designed to enhance your desktop experience by providing powerful cus
 
 ## 👨‍💻 Contributors
 
-[![Contributors](https://img.shields.io/github/contributors/Deskime/Deskime_App)](https://github.com/Deskime/Deskime_App/graphs/contributors)
+<a href="https://github.com/deskime/github_app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=deskime/Deskime_App" />
+</a>
 
 Don't forget to add your contribution!
 
