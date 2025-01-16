@@ -94,8 +94,9 @@ We are currently seeking collaborators to help create a unified application that
 2. Fill in all the details in the .json files.
 3. Run the .pyw files to activate.
    <br><br>
-   > [!WARNING]
-   > 🔑 Remember to follow all the steps provided in each README.md in each branch to ensure the app functions correctly.
+
+> [!CAUTION]
+> 🔑 Remember to follow all the steps provided in each README.md in each branch to ensure the app functions correctly.
 
 ## 🛠️ Troubleshooting
 
@@ -128,6 +129,24 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <br><br><br>
-If you like the project, don't forget to star ⭐ this [repository](https://github.com/Deskime/Deskime_App) and share it with others!
 
+
+```javascript
+try {
+    if (u_scrolled_till_here) {
+        star_repo();   //contribute to my github stats
+        return "thanks in advance";
+    }
+} catch {
+    if (u_liked_this_project) {
+        share_repo(let_others_use);
+    }
+} finally {
+    return "thanks for coming here \n do check my other projects";
+}
+```
+
+## ⭐ Star History
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1VGVFRQZHVFOG01RUJaMjlkYUxGSnBTQTZaU1g1dDRaUm9OOA==#deskime/deskime_app&Date" frameBorder="0"></iframe>
 [Back to top 🚀](#deskime)
