@@ -2,7 +2,7 @@ asteval==1.0.5
 colorama==0.4.6
 ffpyplayer==4.5.2
 keyboard==0.13.5
-Pillow==9.4.0
+Pillow==10.3.0
 Pillow==10.3.0
 plyer==2.1.0
 PyQt5==5.15.11
