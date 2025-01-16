@@ -113,8 +113,8 @@ Deskime is designed to enhance your desktop experience by providing powerful cus
 
 ## 👨‍💻 Contributors
 
-<a href="https://github.com/deskime/github_app/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=deskime/Deskime_App" />
+<a href="https://github.com/deskime/deskime_app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=deskime/deskime_app" />
 </a>
 
 Don't forget to add your contribution!
