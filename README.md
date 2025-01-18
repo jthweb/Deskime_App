@@ -4,6 +4,7 @@
 ![Screenshot](./screenshot.png)
 
 💪🏻 Your ultimate powerful desktop customization application developed in Python🐍.
+<br><br>
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
@@ -39,7 +40,7 @@ Deskime not only enhances your computer's performance but also transforms its ap
 Deskime is continuously evolving, and your feedback, suggestions, and contributions are highly valued. Feel free to open issues, suggest enhancements, or submit pull requests with new apps to help improve the project. Let's work together to make Deskime a powerful tool for desktop customization worldwide.  
 <br><br>
 We are currently seeking collaborators to help create a unified application that allows users to modify settings easily. We look forward to your innovative ideas! 🔧
-
+<br><br>
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)](https://forthebadge.com)
 
 ## ✨ Features
@@ -101,10 +102,7 @@ We are currently seeking collaborators to help create a unified application that
 2. Fill in all the details in the .json files.
 3. Run the .pyw files to activate.
    <br><br>
-<<<<<<< HEAD
-=======
 
->>>>>>> 0abaa4abb909c14007ae66386d225676bb085e4b
 > [!CAUTION]
 > 🔑 Remember to follow all the steps provided in each README.md in each branch to ensure the app functions correctly.
 
@@ -139,7 +137,7 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <br><br><br>
-<<<<<<< HEAD
+
 
 ```javascript
 try {
@@ -155,13 +153,12 @@ try {
     return "thanks for coming here \n do check my other projects";
 }
 ```
-
+<br><br>
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
-
+<br><br>
 <iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1VGVFRQZHVFOG01RUJaMjlkYUxGSnBTQTZaU1g1dDRaUm9OOA==#deskime/deskime_app&Date" frameBorder="0"></iframe>
 
-=======
->>>>>>> 0abaa4abb909c14007ae66386d225676bb085e4b
+
 
 
 ```javascript
@@ -181,5 +178,8 @@ try {
 
 ## ⭐ Star History
 
+
 <iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1VGVFRQZHVFOG01RUJaMjlkYUxGSnBTQTZaU1g1dDRaUm9OOA==#deskime/deskime_app&Date" frameBorder="0"></iframe>
+
+
 [Back to top 🚀](#deskime)
