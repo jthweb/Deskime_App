@@ -90,7 +90,7 @@ We are currently seeking collaborators to help create a unified application that
 <br><br>
 
 4. **Configure the application**
-   You must edit the `.json` configuration files to customize the application settings according to your preferences and make sure the app works. To know more about editing, check out our docs to know more.
+   You must edit the `.json` configuration files to customize the application settings according to your preferences and make sure the app works. To know more about editing, check out the README.md in each branch to know more.
 <br><br>
 
 5. To start Deskime, run the appropriate `.pyw` files. This will activate the application and apply your custom settings.
@@ -156,8 +156,6 @@ try {
 <br><br>
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 <br><br>
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1VGVFRQZHVFOG01RUJaMjlkYUxGSnBTQTZaU1g1dDRaUm9OOA==#deskime/deskime_app&Date" frameBorder="0"></iframe>
-
 
 
 
@@ -176,10 +174,5 @@ try {
 }
 ```
 
-## ⭐ Star History
-
-
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1VGVFRQZHVFOG01RUJaMjlkYUxGSnBTQTZaU1g1dDRaUm9OOA==#deskime/deskime_app&Date" frameBorder="0"></iframe>
-
-
+<br><br>
 [Back to top 🚀](#deskime)
