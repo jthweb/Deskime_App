@@ -3,12 +3,12 @@
 
 ![Screenshot](./screenshot.png)
 
-💪🏻 Your most powerful desktop customization application developed in Python🐍.
+💪🏻 Your ultimate powerful desktop customization application developed in Python🐍.
+[![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
-<a href="https://ko-fi.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white" alt="Buy Me a Ko-fi" />
-</a>
 
 </div>
 
@@ -40,6 +40,8 @@ Deskime is continuously evolving, and your feedback, suggestions, and contributi
 <br><br>
 We are currently seeking collaborators to help create a unified application that allows users to modify settings easily. We look forward to your innovative ideas! 🔧
 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)](https://forthebadge.com)
+
 ## ✨ Features
 
 - **Customizable Search Bar**: Located at the bottom-right of the screen, it allows users to set custom commands (e.g., typing "news" redirects to bbc.com).
@@ -69,24 +71,29 @@ We are currently seeking collaborators to help create a unified application that
 
 ## 📦 Installation
 
-1. ⭐ Star and `clone` this repository
+1. ⭐ Star and `clone` or download this repository
    ```bash
    git clone https://github.com/Deskime/Deskime_App.git
    cd Deskime_Customization
    ```
+<br><br>
 2. **Run the setup script** to install the necessary dependencies:
    ```bash
    python setup.py
    ```
    This command will check for all system requirements and automatically download any required dependencies and fonts.
+<br><br>
 
 3. **Check for successful installation:**
    After running the setup script, ensure that there are no error messages. If the installation completes successfully, you will see a confirmation message.
+<br><br>
 
 4. **Configure the application**
-   You must edit the `.json` configuration files to customize the application settings according to your preferences and make sure the app works.
+   You must edit the `.json` configuration files to customize the application settings according to your preferences and make sure the app works. To know more about editing, check out our docs to know more.
+<br><br>
 
 5. To start Deskime, run the appropriate `.pyw` files. This will activate the application and apply your custom settings.
+<br><br>
 
 ## 📂 Usage
 
@@ -94,8 +101,8 @@ We are currently seeking collaborators to help create a unified application that
 2. Fill in all the details in the .json files.
 3. Run the .pyw files to activate.
    <br><br>
-   > [!CAUTION]
-   > 🔑 Remember to follow all the steps provided in each README.md in each branch to ensure the app functions correctly.
+> [!CAUTION]
+> 🔑 Remember to follow all the steps provided in each README.md in each branch to ensure the app functions correctly.
 
 ## 🛠️ Troubleshooting
 
@@ -126,6 +133,25 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 <br><br><br>
-If you like the project, don't forget to star ⭐ this [repository](https://github.com/Deskime/Deskime_App) and share it with others!
+
+```javascript
+try {
+    if (u_scrolled_till_here) {
+        star_repo();   //contribute to my github stats
+        return "thanks in advance";
+    }
+} catch {
+    if (u_liked_this_project) {
+        share_repo(let_others_use);
+    }
+} finally {
+    return "thanks for coming here \n do check my other projects";
+}
+```
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+
+<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX1VGVFRQZHVFOG01RUJaMjlkYUxGSnBTQTZaU1g1dDRaUm9OOA==#deskime/deskime_app&Date" frameBorder="0"></iframe>
+
 
 [Back to top 🚀](#deskime)

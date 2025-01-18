@@ -1,4 +1,0 @@
-2025-01-14 20:45:21,884 - ERROR - Error opening configuration file: Expecting property name enclosed in double quotes: line 187 column 1 (char 4464)
-2025-01-14 20:46:48,657 - ERROR - Error opening configuration file: Expecting property name enclosed in double quotes: line 187 column 1 (char 4464)
-2025-01-14 20:47:17,790 - ERROR - Error opening configuration file: Expecting property name enclosed in double quotes: line 187 column 1 (char 4464)
-2025-01-14 20:47:38,967 - ERROR - Error opening configuration file: Expecting property name enclosed in double quotes: line 187 column 1 (char 4464)

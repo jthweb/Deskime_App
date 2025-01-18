@@ -22,7 +22,7 @@
         "Adobe": {
 		"icon": "./icons/ico/adobe.ico",
 		"type": "open_app",
-		"exec": "C:\\Program Files\\Adobe\\Acrobat DC\\Acrobat\\Acrobat.exe"
+		"exec": "C:\\Program Files\\Adobe\\<<LOCATION>>\\Acrobat.exe"
 	},
 
         "Firefox": {
@@ -40,7 +40,7 @@
 	"Gmail": {
 		"icon": "./icons/svg/Gmail_icon_(2020).svg",
 		"type": "open_url",
-		"url": "https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&hl=en-GB&flowName=GlifWebSignIn&flowEntry=ServiceLogin"
+		"url": "<<GMAIL LOGIN URL>>"
 	},
 
 	"Notepad": {
@@ -52,14 +52,14 @@
 	"PyCharm Professional": {
 		"icon": "./icons/ico/pc2.ico",
 		"type": "open_app",
-		"exec": "C:\\Program Files\\JetBrains\\PyCharm 2024.2.3\\bin\\pycharmpro64.exe"
+		"exec": "<<PYCHARM LOCATION>>"
 	},
 
 
          "My Folder": {
 		"icon": "./icons/ico/130.ico",
 		"type": "open_app",
-		"exec": "explorer.exe C:\\Users\\<<USER\\Desktop\\<<FOLDERNAME>>"
+		"exec": "explorer.exe C:\\Users\\<<USER>>\\Desktop\\<<FOLDERNAME>>"
 	},
 
 	"Access": {
