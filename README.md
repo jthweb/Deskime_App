@@ -10,6 +10,10 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 
+<br><br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L719EWG5)
+
 
 </div>
 
@@ -154,7 +158,7 @@ try {
 }
 ```
 <br><br>
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://ko-fi.com/deskime)
 <br><br>
 
 
