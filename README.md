@@ -157,26 +157,11 @@ try {
     return "thanks for coming here \n do check my other projects";
 }
 ```
+
 <br><br>
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://ko-fi.com/deskime)
 <br><br>
 
-
-
-```javascript
-try {
-    if (u_scrolled_till_here) {
-        star_repo();   //contribute to my github stats
-        return "thanks in advance";
-    }
-} catch {
-    if (u_liked_this_project) {
-        share_repo(let_others_use);
-    }
-} finally {
-    return "thanks for coming here \n do check my other projects";
-}
-```
-
 <br><br>
+
 [Back to top 🚀](#deskime)
