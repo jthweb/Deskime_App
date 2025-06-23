@@ -33,7 +33,7 @@
 10. 📄 [License](#license)
 11. ⚠️ [Disclaimer](#disclaimer)
 
------
+----
 
 ## 🔌 Introduction
 
